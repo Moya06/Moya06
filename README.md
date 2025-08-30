@@ -1,5 +1,4 @@
-
-![Logo](<img width="1920" height="1080" alt="Fabián Moya" src="https://github.com/user-attachments/assets/af5d6253-2a5a-4005-9c15-95daf3f11e93" />)
+[<img width="1920" height="1080" alt="Fabián Moya" src="https://github.com/user-attachments/assets/ae94bc34-1eff-4d1c-a0ed-7373cc0c785c" />](https://drive.google.com/file/d/1LCyrlzgscqb6cQaFORWQyyzputSVjiS8/view?usp=sharing)
 
 
 
