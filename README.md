@@ -30,7 +30,7 @@ Actualmente, me estoy especializando en **desarrollo web, ASP.NET, C#, SQL y tec
 ---
 
 ## 🎓 Education  
-- 🎓 Ingeniería en Desarrollo de Software | 2025  
+- 🎓 Ingeniería en Desarrollo de Software | En Proceso
 - 🎓 Técnico en Desarrollo Web | CTP Cedes Don Bosco (2022-2024)  
 - 📚 Preparatoria | 2019-2024  
 
