@@ -67,7 +67,7 @@ Actualmente, me estoy especializando en **desarrollo web, ASP.NET, C#, SQL y tec
 
 ## 🌍 Languages  
 - 🇪🇸 Spanish (Native)  
-- 🇺🇸 English (Technical)  
+- 🇺🇸 English (Conversational-Technical)  
 
 ---
 
