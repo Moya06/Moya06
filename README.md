@@ -1,36 +1,77 @@
-[<img width="1920" height="1080" alt="Fabián Moya" src="https://github.com/user-attachments/assets/ae94bc34-1eff-4d1c-a0ed-7373cc0c785c" />](https://drive.google.com/file/d/1LCyrlzgscqb6cQaFORWQyyzputSVjiS8/view?usp=sharing)
+# 👨‍💻 Fabián Moya Moreno
 
+Full Stack Web Developer | Software Engineering Student  
 
+📍 Costa Rica | 📧 fabianmoyawork@gmail.com | 📱 (+506) 8786-5514  
 
-# Fabián Moya
+---
 
-A brief description of what this project does and who it's for
+## 🚀 About Me  
+Soy estudiante de **Ingeniería en Desarrollo de Software** con experiencia en desarrollo web full stack. He trabajado en proyectos que integran frontend, backend y bases de datos, siempre buscando crear soluciones eficientes, seguras y con una buena experiencia de usuario.  
 
+Actualmente, me estoy especializando en **desarrollo web, ASP.NET, C#, SQL y tecnologías modernas de frontend**.  
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-moya-06f0323/)
+---
 
+## 🔗 Links  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-moya-06f0323/)  
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+---
 
+## 🛠 Skills  
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+**Frontend:** HTML5, CSS, Tailwind CSS, JavaScript, React  
+**Backend:** Node.js, ASP.NET, C#, Python  
+**Databases:** SQL Server, MongoDB  
+**Operating Systems:** Linux, Windows  
+**Cybersecurity:** IT Essentials, Cybersecurity Basics  
+**Version Control:** Git, GitHub  
 
-🧠 I'm currently learning Software develpmente
+---
 
-👯‍♀️ I'm looking to collaborate on project open source
+## 🎓 Education  
+- 🎓 Ingeniería en Desarrollo de Software | 2025  
+- 🎓 Técnico en Desarrollo Web | CTP Cedes Don Bosco (2022-2024)  
+- 📚 Preparatoria | 2019-2024  
 
-🤔 I'm looking for help with...
+---
 
-💬 Ask me about programming lenguages
+## 💼 Experience  
 
-📫 How to reach me...
+**Software Developer Intern | AST_Soft** *(Enero 2025 - Junio 2025)*  
+- Desarrollo de interfaces web con HTML y CSS.  
+- Implementación de backend en C# y ASP.NET para extracción de datos con SQL.  
+- Agregar funcionalidades según requerimientos en reuniones de planificación.  
 
-😄 Pronouns...
+**Web Development Internship | MOPT** *(Octubre 2024 - Noviembre 2024)*  
+- Mejora de UX con estilos responsivos en CSS.  
+- Desarrollo de CRUD conectado a base de datos.  
+- Integración frontend con backend y mejoras en la interfaz gráfica.  
 
-⚡️ Fun fact...
+**Service Assistant | Beraldi Catering Service** *(Dic 2023 - Ene 2024)*  
+- Atención al cliente en eventos y gestión de logística.  
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=moya06&theme=dark&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=480&card_height=200&type=png" alt="GitHub Streak" /></a>
+---
+
+## 📜 Certifications  
+- IT Essentials | Cisco Networking Academy  
+- CCNA1 | Cisco Networking Academy  
+- Linux Essentials | Cisco Networking Academy  
+- Cybersecurity Fundamentals | Cisco Networking Academy  
+- Programming Essentials in Python | Cisco Networking Academy  
+- Yo Lidero | UDCB  
+- Programa de Formación para el Trabajo | UDCB  
+
+---
+
+## 🌍 Languages  
+- 🇪🇸 Spanish (Native)  
+- 🇺🇸 English (Technical)  
+
+---
+
+## 🔥 GitHub Stats  
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=moya06&theme=dark&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=480&card_height=200&type=png" alt="GitHub Streak" />
+</a>
