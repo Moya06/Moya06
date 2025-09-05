@@ -68,11 +68,3 @@ Actualmente, me estoy especializando en **desarrollo web, ASP.NET, C#, SQL y tec
 ## 🌍 Languages  
 - 🇪🇸 Spanish (Native)  
 - 🇺🇸 English (Conversational-Technical)  
-
----
-
-## 🔥 GitHub Stats  
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=moya06&theme=dark&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=480&card_height=200&type=png" alt="GitHub Streak" />
-</a>
