@@ -14,7 +14,7 @@ Actualmente, me estoy especializando en **desarrollo web, ASP.NET, C#, SQL y tec
 ---
 
 ## 🔗 Links  
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/](https://fabian-moya.vercel.app/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fabian-moya.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-moya-06f0323/)  
 
 ---
